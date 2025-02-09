@@ -1,0 +1,16 @@
+.selectedElementList {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.selectedElementList__item {
+  background-color: var(--color-white);
+  color: var(--color-black);
+  padding-block: 0.5rem;
+  padding-inline: 1rem;
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  border-radius: 0.25rem;
+}

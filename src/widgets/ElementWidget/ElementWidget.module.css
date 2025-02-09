@@ -1,0 +1,26 @@
+.elementWidget {
+  background-color: var(--color-black);
+  padding: 1rem;
+}
+
+.elementWidget__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.elementWidget__selectedElementList_wrapper {
+  margin-top: 2rem;
+}
+
+.elementWidget__actArea {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 2rem;
+}
+
+.elementWidget__actArea__button {
+  padding-inline: 3rem;
+}

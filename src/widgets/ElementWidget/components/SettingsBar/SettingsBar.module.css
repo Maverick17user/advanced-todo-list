@@ -1,0 +1,6 @@
+.elementWidget__settings {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
