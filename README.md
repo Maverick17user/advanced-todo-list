@@ -2,4 +2,4 @@
 
 Run via `npm i & npm dev`
 
-![UI](assets/ui.png)
+![UI](src/assets/ui.png)
