@@ -2,12 +2,10 @@
 
 Run via
 
-`npm i`
-`npm run dev`
+`npm i` + `npm run dev`
 
 or
 
-`pnpm i`
-`pnpm dev`
+`pnpm i` + `pnpm dev`
 
 ![UI](src/assets/ui.png)
