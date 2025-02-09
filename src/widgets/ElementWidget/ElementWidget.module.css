@@ -21,6 +21,11 @@
   margin-top: 2rem;
 }
 
-.elementWidget__actArea__button {
+.elementWidget__actArea button {
   padding-inline: 3rem;
+}
+
+.elementWidget__actArea__cancelButton {
+  background-color: transparent;
+  border-color: var(--color-black1a);
 }

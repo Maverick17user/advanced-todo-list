@@ -57,11 +57,11 @@ const ElementWidget = ({
         />
       </div>
       <div className={styles.elementWidget__actArea}>
-        <button className={styles.elementWidget__actArea__button} onClick={handleSave}>
+        <button onClick={handleSave}>
           Save
         </button>
-        <button className={styles.elementWidget__actArea__button} onClick={onClose}>
-          Close
+        <button className={styles.elementWidget__actArea__cancelButton} onClick={onClose}>
+          Cancel
         </button>
       </div>
     </section>
